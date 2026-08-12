@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_tab">
+    <par_dashboard_tab action="DELETE">
+        <active>true</active>
+        <background_color/>
+        <dashboard display_value="My First Dashboard">afa26e1b932e4b103133b4de3bba10a5</dashboard>
+        <name>New Tab 2</name>
+        <order>0</order>
+        <sys_class_name>par_dashboard_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-12 10:00:17</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>77a262db932e4b103133b4de3bba1096</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Tab 2</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>par_dashboard_tab_77a262db932e4b103133b4de3bba1096</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-12 10:00:17</sys_updated_on>
+    </par_dashboard_tab>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>402ec7fffb786214363cf633beefdcab</instance_id>
+        <instance_name>dev329316</instance_name>
+        <name>par_dashboard_tab_77a262db932e4b103133b4de3bba1096</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_tab"><par_dashboard_tab action="INSERT_OR_UPDATE"><active>true</active><background_color/><dashboard display_value="My First Dashboard">afa26e1b932e4b103133b4de3bba10a5</dashboard><name>New Tab 2</name><order>0</order><sys_class_name>par_dashboard_tab</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-08-12 10:00:17</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>77a262db932e4b103133b4de3bba1096</sys_id><sys_mod_count>0</sys_mod_count><sys_name>New Tab 2</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>par_dashboard_tab_77a262db932e4b103133b4de3bba1096</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-08-12 10:00:17</sys_updated_on></par_dashboard_tab></record_update>]]></payload>
+        <payload_hash>-394831137</payload_hash>
+        <record_name>New Tab 2</record_name>
+        <reverted_from/>
+        <source>e6543274932a83503133b4de3bba10bd</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-12 10:00:17</sys_created_on>
+        <sys_id>73a262db932e4b103133b4de3bba109b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19ff56a632d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-12 10:00:17</sys_updated_on>
+        <type>PAR Dashboard Tab</type>
+        <update_guid>ffa262dbca2e4b1001f97eface1bd599</update_guid>
+        <update_guid_history>ffa262dbca2e4b1001f97eface1bd599:-394831137</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="New Tab 2">ec18e297936e4b103133b4de3bba1079</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-12 10:23:50</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_tab">par_dashboard_tab</sys_db_object>
+        <sys_id>1ab1aaf99be045a4855e155063bc4b90</sys_id>
+        <sys_metadata>77a262db932e4b103133b4de3bba1096</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Tab 2</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>par_dashboard_tab_77a262db932e4b103133b4de3bba1096</sys_update_name>
+        <sys_update_version display_value="par_dashboard_tab_77a262db932e4b103133b4de3bba1096">73a262db932e4b103133b4de3bba109b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-12 10:23:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
